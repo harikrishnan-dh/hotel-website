@@ -1,0 +1,17 @@
+h1
+{
+    color: lightskyblue;
+    text-align: center;
+    text-transform:capitalize ;
+    font-weight: bold;
+    margin-top: 50px;
+
+}
+img
+{
+    width:650px;
+    height: 450px;
+    text-align: center;
+    padding-left: 19%;
+    margin-top: 40px;
+}
